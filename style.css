@@ -258,10 +258,10 @@ ul li a:hover {
     padding: 1vw 3vw;
   }
   .content .cn {
-    margin-left: 33vw;
-    width: 14vw;
-    height: 5vw;
-    margin-top: 5vw;
+    margin-left: 35vw;
+    width: 19vw;
+    height: 7vw;
+    margin-top: 9vw;
     font-size: 1.8vw;
     font-weight: 800;
     transition: 0.4s ease;
@@ -269,8 +269,8 @@ ul li a:hover {
   .form {
     width: 39vw;
     height: 53vw;
-    margin-top: -0.9vw;
-    margin-left: 8vw;
+    margin-top: 8vw;
+    margin-left: 10vw;
     padding: 5vw;
   }
   .form h2 {
